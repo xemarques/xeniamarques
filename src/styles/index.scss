@@ -20,6 +20,20 @@ $var: white;
   
   .body{
     margin: 0px;
+
+    h2{
+      font-family: var(CharlevoixPro-Light);
+      font-weight: lighter;
+      margin-top: 0px;
+    
+    }
+    
+    a{
+      font-family: var(CharlevoixPro-Light);
+      color: black;
+      font-weight: lighter;
+    
+    }
   }
   
   .grid-container{
@@ -27,21 +41,78 @@ $var: white;
   margin-top: 20px;
   margin-left: 20px;
   grid-template-columns: 350px 350px 350px 350px;
+
+  h2{
+    font-family: var(CharlevoixPro-Light);
+    font-weight: lighter;
+    margin-top: 0px;
+  
+  }
+  
+  a{
+    font-family: var(CharlevoixPro-Light);
+    color: black;
+    font-weight: lighter;
+  
+  }
   }
   
   .grid1{
   margin-top: 0px;
+
+  h2{
+    font-family: var(CharlevoixPro-Light);
+    font-weight: lighter;
+    margin-top: 0px;
+  
+  }
+  
+  a{
+    font-family: var(CharlevoixPro-Light);
+    color: black;
+    font-weight: lighter;
+  
+  }
   
   }
   
   .grid2{
   font-size: 8px;
+
+  h2{
+    font-family: var(CharlevoixPro-Light);
+    font-weight: lighter;
+    margin-top: 0px;
+  
+  }
+  
+  a{
+    font-family: var(CharlevoixPro-Light);
+    color: black;
+    font-weight: lighter;
+  
+  }
   
   
   }
   
   .grid3{
   font-size: 8px;
+
+  h2{
+    font-family: var(CharlevoixPro-Light);
+    font-weight: lighter;
+    margin-top: 0px;
+  
+  }
+  
+  a{
+    font-family: var(CharlevoixPro-Light);
+    color: black;
+    font-weight: lighter;
+  
+  }
+
   }
   
   .grid4{
@@ -49,6 +120,21 @@ $var: white;
   margin-right: 50px;
   line-height: 15px;
   font-size: 12px;
+
+  h2{
+    font-family: var(CharlevoixPro-Light);
+    font-weight: lighter;
+    margin-top: 0px;
+  
+  }
+  
+  a{
+    font-family: var(CharlevoixPro-Light);
+    color: black;
+    font-weight: lighter;
+  
+  }
+  
   }
   
 }
