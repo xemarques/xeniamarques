@@ -1,0 +1,25 @@
+@import '_content.scss';
+
+.content-grid{
+  margin-left: 20px;
+  display: grid;
+  grid-template-columns: 350px 800px
+}
+
+.content1{
+  font-size: 12px;
+
+
+}
+.content2{
+  font-size: 8px;
+  margin-top:10px;
+
+
+}
+
+img{
+  margin-left: 20px;
+  margin-top: 200px;
+  margin-bottom: 20px;
+}
