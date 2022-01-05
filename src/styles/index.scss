@@ -209,3 +209,28 @@
   margin-left: 20px;
   margin-top: 500px;
 }
+
+
+@media (max-width: 375px){
+  .header{display: inline;}
+  .carta .menu{margin-left: 290px;}
+  .carta .menu .show-menu{margin-top: 30px;}
+  .carta .menu .menu-nav {height: 850px;}
+  .carta .grid-container{display: grid;
+      grid-template-columns: 375px;} 
+  .carta .titol h1{margin-left: 30px;}
+  .carta .grid1{margin-left: 30px;
+  margin-right: 30px;}
+  .carta .grid2{margin-left: 30px;
+      margin-right: 30px;}
+  .carta .grid3{margin-left: 30px;
+      margin-right: 30px;}    
+  .carta .imagencarta1 img{width: 320px;
+  margin-bottom: 40px;}
+  .carta .imagencarta2 img{width: 320px;}
+  .carta .grid-container .grid-item4{margin-top: 50px;}
+  .carta .grid-item5 img{width: 320px;}
+  .carta .titol h1{margin-top: 100px;}
+  
+
+}
